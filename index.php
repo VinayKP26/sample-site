@@ -1,4 +1,4 @@
 <?php 
-echo "Hello World - Vinay - This is blue Green Deploymeny";
+echo "Hello World - Vinay - This is In-place Deploymeny";
 
 ?>
